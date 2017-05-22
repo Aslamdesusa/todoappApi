@@ -23,29 +23,29 @@ words = [
     {
         'id': 7,
         'username': 'aslam',
-        'word': 'botal',
-        'note': 'botal jisme ',
+        'word': 'welcome',
+        'note': 'used to greet someone in a polite or friendly way.like welcome to the Wildlife Park',
         'difficulty': '2',
     },
     {
         'id': 6,
         'username': 'aslam',
-        'word': 'akhand chutiyappa',
-        'note': 'bekaar ',
+        'word': 'come',
+        'note': 'move or travel towards or into a place thought of as near or familiar to the speaker. Jess came into the kitchen    ',
         'difficulty': '7',
     },
     {
         'id': 3,
         'username': 'aslam',
-        'word': 'akhand chutiyappa',
-        'note': 'bekaar ',
+        'word': 'would',
+        'note': 'past of will1, in various senses. he said he would be away for a couple of days',
         'difficulty': '7',
     },
     {
         'id': 2,
         'username': 'aslam',
-        'word': 'akhand chutiyappa',
-        'note': 'bekaar ',
+        'word': 'Postman',
+        'note': 'a person who is employed to deliver or collect letters and parcels.',
         'difficulty': '7',
     }
 
